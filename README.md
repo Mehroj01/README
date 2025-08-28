@@ -9,9 +9,9 @@
  <img align='right' src="https://user-images.githubusercontent.com/113560218/230295129-d32dee80-c26d-4104-9033-a190747498ed.gif" width="230"> </p>
 
 
-- 🌱 I’m currently learning <strong>Swift / IOS Development</strong>.
+- 🌱 I’m currently learning <strong>Kotlin / Android Development</strong>.
 - 📫 How to reach me  **mekrhojdeveloper@gmail.com**
-- ❓ Ask me about IOS Development and Swift.
+- ❓ Ask me about Android Development and Kotlin,Java.
 
 
 
