@@ -34,24 +34,26 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888839.png" alt="android" height="30" width="30"/>
   </a>
 
+<h3 align="left">Technologies and Tools:</h3>
+<p align="left">
   <!-- Jetpack Compose -->
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img align="center" src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="jetpack compose" height="30" width="30"/>
+    <img align="center" src="https://developer.android.com/images/brand/Android_Robot.svg" alt="jetpack compose" height="30" width="30"/>
   </a>
 
   <!-- Retrofit -->
   <a href="https://square.github.io/retrofit/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/square/retrofit/master/website/static/favicon.ico" alt="retrofit" height="30" width="30"/>
+    <img align="center" src="https://avatars.githubusercontent.com/u/82592?s=200&v=4" alt="retrofit" height="30" width="30"/>
   </a>
 
   <!-- Room -->
   <a href="https://developer.android.com/training/data-storage/room" target="_blank">
-    <img align="center" src="https://developer.android.com/static/images/training/data-storage/room_icon.svg" alt="room db" height="30" width="30"/>
+    <img align="center" src="https://developer.android.com/images/training/data-storage/room-icon_192.png" alt="room db" height="30" width="30"/>
   </a>
 
   <!-- Hilt / Dagger -->
   <a href="https://dagger.dev/hilt/" target="_blank">
-    <img align="center" src="https://dagger.dev/images/dagger.png" alt="hilt dagger" height="30" width="30"/>
+    <img align="center" src="https://dagger.dev/dagger.png" alt="hilt dagger" height="30" width="30"/>
   </a>
 
   <!-- Firebase -->
@@ -61,10 +63,11 @@
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="30" width="30"/>
+    <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30"/>
   </a>
 </p>
 <hr>
+
 
  
  <div>
