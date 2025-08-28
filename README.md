@@ -1,5 +1,5 @@
 # README
-<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Abduraxmon</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Mehroj (nickname: Martin)</h1>
 <h3 align="center">An Android Developer from Uzbekistan from Tashkent</h3>
 
 
@@ -18,17 +18,54 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="[https://www.linkedin.com/in/abduramon-davurov-618389257/](https://uz.linkedin.com/in/mehroj-aloviddinov-4a6804263)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
-<a href="https://t.me/Davurov_002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230284629-49cc334a-271c-429b-80fe-d4c963216c59.jpeg" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://uz.linkedin.com/in/mehroj-aloviddinov-4a6804263" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://t.me/Martiness_03" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230284629-49cc334a-271c-429b-80fe-d4c963216c59.jpeg" alt="bilgecakar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
-<p style="text-align:left">
-<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
-<a href="https://firebase.google.com/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" height="30" width="30" /></a>
-<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230285938-c7233163-590a-46db-8382-bb48e6582326.jpeg" alt="swiftUI" height="30" width="30" /></a>
+<p align="left">
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" height="30" width="30"/>
+  </a>
+
+  <!-- Android -->
+  <a href="https://developer.android.com/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888839.png" alt="android" height="30" width="30"/>
+  </a>
+
+  <!-- Jetpack Compose -->
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img align="center" src="https://developer.android.com/static/images/brand/Android_Robot.png" alt="jetpack compose" height="30" width="30"/>
+  </a>
+
+  <!-- Retrofit -->
+  <a href="https://square.github.io/retrofit/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/square/retrofit/master/website/static/favicon.ico" alt="retrofit" height="30" width="30"/>
+  </a>
+
+  <!-- Room -->
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank">
+    <img align="center" src="https://developer.android.com/static/images/training/data-storage/room_icon.svg" alt="room db" height="30" width="30"/>
+  </a>
+
+  <!-- Hilt / Dagger -->
+  <a href="https://dagger.dev/hilt/" target="_blank">
+    <img align="center" src="https://dagger.dev/images/dagger.png" alt="hilt dagger" height="30" width="30"/>
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30" width="30"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="30" width="30"/>
+  </a>
 </p>
-<hr></hr>
+<hr>
+
  
  <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davurov" alt="davurov" /> </p>
