@@ -1,6 +1,6 @@
 # README
 <h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Abduraxmon</h1>
-<h3 align="center">An IOS Developer from Uzbekistan from Tashkent</h3>
+<h3 align="center">An Android Developer from Uzbekistan from Tashkent</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning <strong>Swift / IOS Development</strong>.
-- 📫 How to reach me  **davurovabduraxmon7@gmail.com**
+- 📫 How to reach me  **mekrhojdeveloper@gmail.com**
 - ❓ Ask me about IOS Development and Swift.
 
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
-<a href="https://www.linkedin.com/in/abduramon-davurov-618389257/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="[https://www.linkedin.com/in/abduramon-davurov-618389257/](https://uz.linkedin.com/in/mehroj-aloviddinov-4a6804263)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230282301-e8fd26cf-fa07-4102-bc2f-1416199abe4b.png" alt="bilgecakar" height="30" width="30" /></a>
 <a href="https://t.me/Davurov_002" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113560218/230284629-49cc334a-271c-429b-80fe-d4c963216c59.jpeg" alt="bilgecakar" height="30" width="30" /></a>
 </p>
 
