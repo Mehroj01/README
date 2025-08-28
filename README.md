@@ -1,5 +1,5 @@
 # README
-<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Mehroj (nickname: Martin)</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/113560218/230295780-c4bdc30e-9a13-4ead-a434-ea741ab88624.gif" width="30" /> Hi, I'm Mehroj (Martin)</h1>
 <h3 align="center">An Android Developer from Uzbekistan from Tashkent</h3>
 
 
